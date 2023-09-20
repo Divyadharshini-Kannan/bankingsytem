@@ -1,2 +1,2 @@
 # bankingsytem
-my project on spark foundation
+my project in spark foundation
